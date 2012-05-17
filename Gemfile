@@ -7,3 +7,5 @@ gem 'ruby-debug'
 gem 'rspec'
 gem 'json'
 
+gem 'guard'
+gem 'guard-rspec'
